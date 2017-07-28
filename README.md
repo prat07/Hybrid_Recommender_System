@@ -5,7 +5,7 @@ Data can be downloaded from - http://jmcauley.ucsd.edu/data/amazon/  (Review Dat
 Direct download link - http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Apps_for_Android.csv  
 The dataset includes no metadata or reviews, but only (user,item,rating,timestamp) tuples, having approx. 2.6+ million ratings
 
-Check Executive Summary for Analysis Results.
+Check Project Summary for Analysis Synopsis.
 
 Check Jupyter Notebooks for Analysis Steps.
 
